@@ -52,7 +52,7 @@ NoteCraft is an advanced, feature-rich text editor built in Java, designed to ca
 ## **Acknowledgments**
 
 - Inspired by Microsoft Notepad and Notepad++.
-- Thanks to the Hasnain Mughal and users for their support.
+- Thanks to the Hassan Raza and users for their support.
 
 ---
 
